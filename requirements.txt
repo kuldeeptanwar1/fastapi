@@ -32,7 +32,7 @@ exceptiongroup==1.1.0
 executing==1.2.0
 fastapi==0.112.0
 flatbuffers==23.1.21
-flet==0.4.2
+flet==0.24.1
 flet-core==0.4.2
 fonttools==4.38.0
 fsspec==2023.3.0
