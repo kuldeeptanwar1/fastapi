@@ -1,8 +1,10 @@
-tensorflow==2.10.0
+# tensorflow==2.10.0
 fastapi
 uvicorn
 python-multipart
 pillow
 # tensorflow-serving-api==2.5.0
 matplotlib
-numpy
+tensorflow-cpu==2.10.0
+numpy==1.21.6
+pybind11>=2.12
